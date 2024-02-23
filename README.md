@@ -1,2 +1,2 @@
-# assault-cube-map
- Cheating software I made in 2018 for learning purposes.
+# Assault Cube Map
+Cheating software I made for Assault Cube in 2018 for learning purposes. At the time I was able to get it working on singleplayer with bots. Forgiving a few minor bugs likely related to player information being missing or inaccurate at times, it was a success! I don't recommend using it yourself, it was intended as a learning project, and I'm including it here without its dependencies (though that may just be the Windows API).
